@@ -1,0 +1,8 @@
+name: StatSetter
+version: '${project.version}'
+main: me.serbob.toastedkilldeath.ToastedKillDeath
+api-version: 1.19
+commands:
+  tset:
+    description: Set kills/deaths
+    permission: tset.use
